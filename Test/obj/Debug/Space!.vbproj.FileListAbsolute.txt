@@ -1,0 +1,86 @@
+G:\Space!\Test\bin\Debug\Space!.exe.config
+G:\Space!\Test\bin\Debug\Space!.exe
+G:\Space!\Test\bin\Debug\Space!.pdb
+G:\Space!\Test\bin\Debug\Space!.xml
+G:\Space!\Test\obj\Debug\WindowsApplication1.Back.resources
+G:\Space!\Test\obj\Debug\WindowsApplication1.Form1.resources
+G:\Space!\Test\obj\Debug\WindowsApplication1.Space.resources
+G:\Space!\Test\obj\Debug\WindowsApplication1.level2.resources
+G:\Space!\Test\obj\Debug\WindowsApplication1.Resources.resources
+G:\Space!\Test\obj\Debug\Space!.vbproj.GenerateResource.Cache
+G:\Space!\Test\obj\Debug\Space!.exe
+G:\Space!\Test\obj\Debug\Space!.xml
+G:\Space!\Test\obj\Debug\Space!.pdb
+G:\Space!\Test\obj\Debug\Space!.vbprojResolveAssemblyReference.cache
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\bin\Debug\Space!.exe.config
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\bin\Debug\Space!.exe
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\bin\Debug\Space!.pdb
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\bin\Debug\Space!.xml
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.Back.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.Form1.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.level2.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.level3.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.logedin.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.login.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.Menu1.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.Menu2.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.Resources.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\Space!.vbproj.GenerateResource.Cache
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\Space!.exe
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\Space!.xml
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\Space!.pdb
+\\atec.net\warehouse\dev\ralstena\Documents\Space!\Test\obj\Debug\WindowsApplication1.level1.resources
+C:\Users\Aliak\Desktop\Space!\Test\bin\Debug\Space!.exe.config
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\Space!.exe
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\Space!.xml
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\Space!.pdb
+C:\Users\Aliak\Desktop\Space!\Test\bin\Debug\Space!.exe
+C:\Users\Aliak\Desktop\Space!\Test\bin\Debug\Space!.pdb
+C:\Users\Aliak\Desktop\Space!\Test\bin\Debug\Space!.xml
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.Back.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.level1.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.level2.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.level3.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.logedin.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.login.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.Menu2.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aliak\Desktop\Space!\Test\obj\Debug\Space!.vbproj.GenerateResource.Cache
+C:\Users\Aliak\Desktop\Projects\Space!\Test\bin\Debug\Space!.exe.config
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\Space!.exe
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\Space!.xml
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\Space!.pdb
+C:\Users\Aliak\Desktop\Projects\Space!\Test\bin\Debug\Space!.exe
+C:\Users\Aliak\Desktop\Projects\Space!\Test\bin\Debug\Space!.pdb
+C:\Users\Aliak\Desktop\Projects\Space!\Test\bin\Debug\Space!.xml
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.Back.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.level1.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.level2.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.level3.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.logedin.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.login.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.Menu2.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aliak\Desktop\Projects\Space!\Test\obj\Debug\Space!.vbproj.GenerateResource.Cache
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\bin\Debug\Space!.exe.config
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\Space!.exe
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\Space!.xml
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\Space!.pdb
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\bin\Debug\Space!.exe
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\bin\Debug\Space!.pdb
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\bin\Debug\Space!.xml
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.Back.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.level1.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.level2.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.level3.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.logedin.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.login.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.Menu2.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aliak\Desktop\Projects\Space! 2.0\Test\obj\Debug\Space!.vbproj.GenerateResource.Cache
